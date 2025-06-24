@@ -1,0 +1,25 @@
+# Core Streamlit App
+streamlit
+python-dotenv
+pandas
+pillow
+pytesseract
+
+# OpenAI + LangChain
+openai
+langchain
+langchain-core
+langchain-community
+langchain-openai
+tiktoken
+
+# PDF Export
+fpdf
+
+# Voice Support
+SpeechRecognition
+pyttsx3
+pyaudio
+
+# Optional: Safe installation helper for pyaudio (if needed)
+pipwin
