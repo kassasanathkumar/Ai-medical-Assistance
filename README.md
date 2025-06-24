@@ -36,18 +36,18 @@ MediScan AI is an intelligent healthcare assistant that analyzes uploaded medica
 
 ## 📁 Folder Structure
 
-```
-
 MediScan-AI/
 │
 ├── Utils/
-│   ├── Agent.py         # All medical specialist agent logic
-│   └── Chatbot.py       # Chat assistant response logic
+│   └── Agent.py
 │
-├── .env                 # Environment variables (Groq API key)
-├── app.py               # Main Streamlit application
-├── requirements.txt     # Python dependencies
-└── README.md            # This file
+├── .env
+├── app.py                 # Streamlit UI
+├── main.py                # Command-line interface for testing agents
+├── requirements.txt
+├── results/
+│   └── final_diagnosis.txt  # Output from CLI
+└── README.md
 
 ````
 
