@@ -103,13 +103,7 @@ streamlit run app.py
 4. Ask questions to the chatbot.
 5. Download the chat as PDF.
 
----
 
-## ✅ Example Report Screenshot
-
-![Example](assets/example_screenshot.png)
-
----
 
 ## 💡 Future Improvements
 
